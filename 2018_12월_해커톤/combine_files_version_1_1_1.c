@@ -6,7 +6,7 @@
 //include header files
 //헤더 파일을 include 합니다.
 #include"myheader.h"
-#include"struct_def_B.h"
+#include"struct_def.h"
 
 
 //ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
