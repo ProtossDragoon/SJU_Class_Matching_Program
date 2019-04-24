@@ -1,14 +1,10 @@
 ﻿  combine_files_version_1_1_1.c
-c:\users\user\desktop\programming_projects\visual studio project\2018_12월_해커톤\2018_12월_해커톤\combine_files_version_1_1_1.c(2): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
-  c:\users\user\desktop\programming_projects\visual studio project\2018_12월_해커톤\2018_12월_해커톤\combine_files_version_1_1_1.c: note: '_CRT_SECURE_NO_WARNINGS'의 이전 정의를 참조하십시오.
-c:\users\user\desktop\programming_projects\visual studio project\2018_12월_해커톤\2018_12월_해커톤\combine_files_version_1_1_1.c(92): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-c:\users\user\desktop\programming_projects\visual studio project\2018_12월_해커톤\2018_12월_해커톤\combine_files_version_1_1_1.c(30): warning C4101: 'fk' :참조되지 않은 지역 변수입니다.
-  find_time.c
-c:\users\user\desktop\programming_projects\visual studio project\2018_12월_해커톤\2018_12월_해커톤\find_time.c(2): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
-  c:\users\user\desktop\programming_projects\visual studio project\2018_12월_해커톤\2018_12월_해커톤\find_time.c: note: '_CRT_SECURE_NO_WARNINGS'의 이전 정의를 참조하십시오.
-c:\users\user\desktop\programming_projects\visual studio project\2018_12월_해커톤\2018_12월_해커톤\find_time.c(65): warning C4101: 'm' :참조되지 않은 지역 변수입니다.
-c:\users\user\desktop\programming_projects\visual studio project\2018_12월_해커톤\2018_12월_해커톤\find_time.c(65): warning C4101: 'n' :참조되지 않은 지역 변수입니다.
-c:\users\user\desktop\programming_projects\visual studio project\2018_12월_해커톤\2018_12월_해커톤\find_time.c(260): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
-c:\users\user\desktop\programming_projects\visual studio project\2018_12월_해커톤\2018_12월_해커톤\find_time.c(283): warning C4101: 'size' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\programming_PROJECTS\SJU_Class_Matching_Program\SJU_Class_Matching_Program\combine_files_version_1_1_1.c(5): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
+  C:\Users\user\Desktop\programming_PROJECTS\SJU_Class_Matching_Program\SJU_Class_Matching_Program\combine_files_version_1_1_1.c: note: '_CRT_SECURE_NO_WARNINGS'의 이전 정의를 참조하십시오.
+C:\Users\user\Desktop\programming_PROJECTS\SJU_Class_Matching_Program\SJU_Class_Matching_Program\combine_files_version_1_1_1.c(92): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\user\Desktop\programming_PROJECTS\SJU_Class_Matching_Program\SJU_Class_Matching_Program\combine_files_version_1_1_1.c(28): warning C4101: 'fk' :참조되지 않은 지역 변수입니다.
+  main.c
+C:\Users\user\Desktop\programming_PROJECTS\SJU_Class_Matching_Program\SJU_Class_Matching_Program\main.c(48): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
+  C:\Users\user\Desktop\programming_PROJECTS\SJU_Class_Matching_Program\SJU_Class_Matching_Program\main.c: note: '_CRT_SECURE_NO_WARNINGS'의 이전 정의를 참조하십시오.
   코드를 생성하고 있습니다...
-  2018_12월_해커톤.vcxproj -> C:\Users\user\Desktop\programming_PROJECTS\Visual Studio Project\2018_12월_해커톤\Debug\2018_12월_해커톤.exe
+  2018_12월_해커톤.vcxproj -> C:\Users\user\Desktop\programming_PROJECTS\SJU_Class_Matching_Program\SJU_Class_Matching_Program\Debug\2018_12월_해커톤.exe

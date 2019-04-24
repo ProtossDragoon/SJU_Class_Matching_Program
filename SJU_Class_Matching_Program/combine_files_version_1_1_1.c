@@ -1,12 +1,10 @@
 //CODE START
-#define _CRT_SECURE_NO_WARNINGS
-
-
 //ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 //include header files
 //헤더 파일을 include 합니다.
-#include"myheader.h"
-#include"struct_def.h"
+#define _CRT_SECURE_NO_WARNINGS
+#include"essential_headers.h"
+#include"structures_define.h"
 
 
 //ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
@@ -43,12 +41,13 @@ void combine_files() {
 
 	//ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 	//combinine single data txt files into one
-	//하나짜리의 텍스트 파일들을 하나의 텍스트 파일로 결합
-	#if TEST
+	//한 줄짜리의 텍스트 파일들을 하나의 텍스트 파일로 결합
+	#ifdef TEST
 	printf("//SINGLE TXT FILES THAT WERE READ AND COMBINED INTO ONE\n");
 	printf("//하나의 파일로 합치기 위해 읽어들인 하나짜리 텍스트 파일들\n");
 	#endif
 
+	printf("combine start\n");
 	fp_write = fopen("classlist.txt", "w");
 	fclose(fp_write);
 	fp_write = fopen("classlist.txt", "a");
@@ -86,9 +85,10 @@ void combine_files() {
 		fp_read = fopen(name_final, "r");
 		if (fp_read == NULL) break;
 
-		#if TEST
+		#ifdef TEST
 		printf("%s\n", name_final);
 		#endif
+
 		for (fi = 0; fi < strlen(name_final); fi++) {
 			name_final[fi] = 0;
 		}

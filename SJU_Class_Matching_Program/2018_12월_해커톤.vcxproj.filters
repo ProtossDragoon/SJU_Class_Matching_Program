@@ -18,18 +18,18 @@
     <ClCompile Include="combine_files_version_1_1_1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="find_time.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="main.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="myheader.h">
+    <ClInclude Include="essential_headers.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="struct_def.h">
+    <ClInclude Include="structures_define.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="mode_setting.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
