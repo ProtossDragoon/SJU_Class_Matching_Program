@@ -1,5 +1,6 @@
 # SJU_Class_Matching_Program
-Freshman Hackathon Team : Spirit of Olympic : 세종대학교 강의실-강의 자동 배정을 위한 프로그램 입니다. (participation prize)
+Freshman Hackathon Team : Spirit of Olympic : 세종대학교 강의실-강의 자동 배정을 위한 프로그램 입니다.<br>
+33개팀중 9위, 장려상 (participation prize) <br>
 
 
 <br>
